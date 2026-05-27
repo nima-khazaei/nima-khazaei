@@ -4,8 +4,8 @@
 
 <h3 align="center">accidentally lost my ip address in production, add my mac addr</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20" alt="pixel hacker" />
+<div align="right">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="pixel hacker" />
 </div>
 
 <p align="center">
