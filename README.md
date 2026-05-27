@@ -17,11 +17,12 @@
 ```bash
 > cat ~/.about_nima
 
-  Once there was Nima doing his discrete math then realized computers; thus, sarcastically I overcomplicating everything.
+Once there was Nima doing his discrete math then realized computers; thus, sarcastically I overcomplicating everything.
 
   🧠 Previous Brainrot
   Research Assistant @ University of Guilan (OSIFS).
   TA for Theory of Computation, Linear Algebra & Databases.
+```
 
   🛠️ Tools of Chaos
   <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sql&#x26;perline=8">
