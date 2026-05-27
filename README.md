@@ -19,14 +19,14 @@
 
 Once there was Nima doing his discrete math then realized computers; thus, sarcastically I overcomplicating everything.
 
-  Brainrots:
-  Research Assistant @ University of Guilan (OSIFS).
-  TA for Theory of Computation, Linear Algebra & Databases.
+Brainrots:
+  TA'd Theory of Computation (yes, I tortured students with automata too).
+  Got some papers cooking: streaming infinite feature selection and Alpha-Beta pruning stuff.
 ```
 
 🛠️ Tools of Chaos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sql&#x26;perline=8">
+  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite&#x26;perline=8">
 </div>
 
 🎮 Meme Corner
