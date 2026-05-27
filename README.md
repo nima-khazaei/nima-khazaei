@@ -28,7 +28,7 @@ Brainrots:
 
 <div align="center">
   <h3>🛠️ Tools of Chaos</h3>
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite,nvim&#x26;perline=8">
+  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite,neovim&#x26;perline=8">
 </div>
 
 🎮 Meme Corner
