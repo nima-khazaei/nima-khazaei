@@ -24,8 +24,9 @@ Brainrots:
   Got some papers cooking: streaming infinite feature selection and Alpha-Beta pruning stuff.
 ```
 
-🛠️ Tools of Chaos
+
 <div align="center">
+  <h3>🛠️ Tools of Chaos</h3>
   <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite&#x26;perline=8">
 </div>
 
@@ -33,5 +34,7 @@ Brainrots:
 - TypingTest in Python (self-harm edition)
 - Tetris in C + Raylib (pure pain)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
+</div>
