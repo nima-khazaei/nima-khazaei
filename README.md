@@ -32,3 +32,6 @@ Brainrots:
 🎮 Meme Corner
 - TypingTest in Python (self-harm edition)
 - Tetris in C + Raylib (pure pain)
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
