@@ -20,18 +20,20 @@
 Once there was Nima doing his discrete math then realized computers; thus, sarcastically I overcomplicating everything.
 
 Brainrots:
-  TA'd Theory of Computation (yes, I tortured students with automata too).
-  Got some papers cooking: streaming infinite feature selection and Alpha-Beta pruning stuff.
+  TA'd Theory of Computation (yes, I tortured students with automata).
+  Graph Theory was the best course I've ever had.
+  Co-op'd on some papers: streaming infinite feature selection and Alpha-Beta pruning stuff.
 ```
 
 
 <div align="center">
   <h3>🛠️ Tools of Chaos</h3>
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite&#x26;perline=8">
+  <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sqlite,nvim&#x26;perline=8">
 </div>
 
 🎮 Meme Corner
-- TypingTest in Python (self-harm edition)
+- TypingTest in Python (turned out Vim was a perfect project)
+- Computational-Intelligence (wasn't much intelligent)
 - Tetris in C + Raylib (pure pain)
 
 <div align="center">
