@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=1a1a2e&height=200&section=header&text=Nima%20Khazaei&fontSize=55&fontColor=00ff9f" alt="header" />
 </div>
 
-<h3 align="center">accidentally lost my ip address in production, add my mac addr <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20" alt="pixel hacker" /> </h3>
+<h3 align="center">accidentally lost my ip address in production, add my mac addr 🖧</h3>
 
 
 <p align="center">
@@ -19,14 +19,16 @@
 
 Once there was Nima doing his discrete math then realized computers; thus, sarcastically I overcomplicating everything.
 
-  🧠 Previous Brainrot
+  Brainrots:
   Research Assistant @ University of Guilan (OSIFS).
   TA for Theory of Computation, Linear Algebra & Databases.
 ```
 
-  🛠️ Tools of Chaos
+🛠️ Tools of Chaos
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,matlab,git,linux,latex,sql&#x26;perline=8">
+</div>
 
-  🎮 Meme Corner
-  - TypingTest in Python (self-harm edition)
-  - Tetris in C + Raylib (pure pain)
+🎮 Meme Corner
+- TypingTest in Python (self-harm edition)
+- Tetris in C + Raylib (pure pain)
