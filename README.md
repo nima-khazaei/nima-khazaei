@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=1a1a2e&height=200&section=header&text=Nima%20Khazaei&fontSize=55&fontColor=00ff9f" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1a1a2e&height=200&section=header&text=winniethepooh&fontSize=55&fontColor=00ff9f" alt="header" />
 </div>
 
 <h3 align="center">accidentally lost my ip address in production, add my mac addr 🖧</h3>
