@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/who%20said%20autism%20won't%20work%20in%20computers%3F-1a1a2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/I%20use%20Endeavour%20btw-DE3A5C?style=for-the-badge&logo=endeavour&logoColor=white" />
+  <img src="https://img.shields.io/badge/I%20use%20Endeavour%20btw-DE3A5C?style=for-the-badge&logo=endeavouros&logoColor=white" />
 </p>
 
 ---
